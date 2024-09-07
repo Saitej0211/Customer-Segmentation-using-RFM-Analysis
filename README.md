@@ -1,8 +1,4 @@
-Here's a Git README file template for your FDA Project-2:
-
----
-
-# FDA Project-2: E-Commerce Data Analysis
+E-Commerce Data Analysis
 
 ## Overview
 
